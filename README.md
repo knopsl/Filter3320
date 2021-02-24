@@ -1,4 +1,5 @@
-# Filter3320
+# CEM3320 Filter
 This is a CEM3320 based filter module, designed for Kosmo format(see lookmumnocomputer.com).
 
 All files are work in progress unless stated otherwise.
+
